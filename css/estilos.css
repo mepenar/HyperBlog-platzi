@@ -4,3 +4,11 @@ body
     font-family: Arial, Helvetica, sans-serif;
     color: blueviolet;
 }
+
+#cabecera
+{
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5rem;
+}
